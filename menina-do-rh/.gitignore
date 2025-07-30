@@ -1,0 +1,12 @@
+# Ambientes virtuais
+venv/
+__pycache__/
+*.pyc
+
+# Arquivos sensíveis ou de uso local
+.env
+apikey.txt
+
+# Dados reais ou pesados
+faiss_index.idx
+textos_indexados.txt
