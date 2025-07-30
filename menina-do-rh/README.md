@@ -62,6 +62,21 @@ python 03_gerar_resposta_claude.py  # Ou usar a busca antes com 02
 
 ---
 
+
+## 💻 Demonstração Visual
+
+Abaixo, algumas capturas reais da Menina do RH em funcionamento:
+
+### Tela inicial
+![Tela Inicial](images/Captura%20de%20tela%202025-07-30%20155624.png)
+
+### Opções de ajuda disponíveis
+![Lista de processos de RH](images/Captura%20de%20tela%202025-07-30%20160009.png)
+
+### Resposta detalhada sobre plano odontológico
+![Resposta assistencia odontológica](images/Captura%20de%20tela%202025-07-30%20160111.png)
+
+
 ## 📌 Observações
 
 - A IA responde com base **apenas nos trechos encontrados via FAISS**.
