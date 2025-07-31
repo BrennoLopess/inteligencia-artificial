@@ -76,6 +76,11 @@ Abaixo, algumas capturas reais da Menina do RH em funcionamento:
 ### Resposta detalhada sobre plano odontológico
 ![Resposta assistencia odontológica](images/Captura%20de%20tela%202025-07-30%20160111.png)
 
+### 🌀 Demonstração em GIF
+
+![Demonstração em funcionamento](images/gifmeninadorh.gif)
+
+
 
 ## 📌 Observações
 
